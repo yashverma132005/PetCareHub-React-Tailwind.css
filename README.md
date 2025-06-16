@@ -27,8 +27,10 @@ PetCareHub is a modern, responsive React-based web application that provides per
 -> 🚀 Live Demo
 https://pet-care-hub.netlify.app/
 
--> 💻 ScreenShots
+# 💻 ScreenShots
+
 ![pet-care-hub netlify app_ (2)](https://github.com/user-attachments/assets/468f36af-32f1-4b54-bbcd-1c6b0c448528)
+
 ![pet-care-hub netlify app_(iPhone SE)](https://github.com/user-attachments/assets/50f9a006-e628-45b1-aeda-b9f14dcf0c7c)
 
 
