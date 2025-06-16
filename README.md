@@ -1,4 +1,5 @@
-🐾 PetCareHub — Personalized Care Plans for Every Pet
+# PetCareHub — Personalized Care Plans for Every Pet
+
 PetCareHub is a modern, responsive React-based web application that provides personalized care plans for pets based on their breed, age, weight, and health needs. Whether it’s nutrition, grooming, or exercise — PetCareHub delivers tailored recommendations for pet owners to ensure their furry companions live healthy, happy lives.
 
 🔍 Features
